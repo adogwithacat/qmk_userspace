@@ -2,6 +2,7 @@
     "userspace_version": "1.1",
     "build_targets": [
         ["primekb/meridian/ktr1010", "via"],
-        ["bioi/f60", "via"]
+        ["bioi/f60", "via"],
+        ["gray_studio/bd60", "via"]
     ]
 }
